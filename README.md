@@ -27,7 +27,7 @@ This project.......
 
 <p align="center">
 <strong><mark>Project Diagram</mark></strong> <br/>
-<img src="https://imgur.com/310c4998-ce9b-493f-b098-10154c449c54" height="80%" width="80%" alt="SIEM Building Steps"/>
+<img src="blob:https://imgur.com/19c10f5c-8c94-4eec-bdfe-6cc1fa65fd75" height="80%" width="80%" alt="SIEM Building Steps"/>
 <br />
 
 
