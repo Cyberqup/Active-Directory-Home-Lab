@@ -16,10 +16,6 @@ This project.......
   <td>Virtual Machine</td>
   <td>PowerShell ISO</td>
  </tr>
- <tr>
-  <td>Windows Event Viewer</td>
-  <td>Windows 10 Pro (22H2)</td>
- </tr>
 </table>
 <br/>
 
@@ -27,7 +23,7 @@ This project.......
 
 <p align="center">
 <strong><mark>Project Diagram</mark></strong> <br/>
-<img src="blob:https://imgur.com/19c10f5c-8c94-4eec-bdfe-6cc1fa65fd75" height="80%" width="80%" alt="SIEM Building Steps"/>
+<img src="blob:https://imgur.com/19c10f5c-8c94-4eec-bdfe-6cc1fa65fd75" height="80%" width="80%" alt="Active Directory"/>
 <br />
 
 
