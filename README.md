@@ -35,20 +35,20 @@ This project.......
  <br />
 2. Download the VirtualBox Extension Pack
  <br />
-3. 
+3. Proceed through installation process to setup the application.
 <br />
 <br />
 <h3>Windows 10</h3>
 1. Download Windows 10 ISO image from "https://www.microsoft.com/en-us/software-download/windows10"
 <br />
-2. 
+2. Save the ISO image into a folder that can be found when making the Virtual Machine.
 <br />
 
 <br />
 <h3>Windows Server 2019 </h3>
 1. Download Windows Server 2019 ISO image from "https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019"
 <br />
-2. 
+2. CONT....
 <br />
 
 
