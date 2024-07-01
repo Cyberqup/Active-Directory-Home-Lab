@@ -27,9 +27,24 @@ This project.......
 <br />
 
 
- <h2>Setup Instructions</h2>
+ <h2>Download/Setup</h2>
 <p align="center">
 <br />
+<h3>Oracle VirtualBox</h3>
+1. Download Oracle VirtualBox for Windows hosts from "https://www.virtualbox.org/wiki/Downloads"
+2. Download the VirtualBox Extension Pack
+3. 
+
+<br />
+<h3>Windows 10</h3>
+1. Download Windows 10 ISO image from "https://www.microsoft.com/en-us/software-download/windows10"
+2. 
+
+<br />
+<h3>Windows Server 2019 </h3>
+1. Download Windows Server 2019 ISO image from "https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019"
+2. 
+
 
 
  <h2>Section 1 </h2>
