@@ -27,7 +27,7 @@ This project.......
 <br />
 
 
- <h2>Download/Setup</h2>
+ <h2>Prerequisites</h2>
 <p align="center">
 <br />
 <h3>Oracle VirtualBox</h3>
