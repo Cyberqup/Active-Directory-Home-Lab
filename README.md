@@ -23,7 +23,7 @@ This project.......
 
 <p align="center">
 <strong><mark>Project Diagram</mark></strong> <br/>
-<img src="blob:https://imgur.com/19c10f5c-8c94-4eec-bdfe-6cc1fa65fd75" height="80%" width="80%" alt="Active Directory"/>
+<img src="https://imgur.com/3iB06uP" height="80%" width="80%" alt="Active Directory"/>
 <br />
 
 
