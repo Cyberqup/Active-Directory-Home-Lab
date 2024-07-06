@@ -11,9 +11,12 @@ This project.......
   <td>Windows 10 Pro</td>
   <td>Active Directory Domain Services</td>
  </tr>
- <tr>
+  <tr>
+  <td>Domain Controller</td>
   <td>RAS / NAT</td>
   <td>DHCP</td>
+ </tr>
+ <tr>
   <td>PowerShell ISE</td>
  </tr>
 </table>
