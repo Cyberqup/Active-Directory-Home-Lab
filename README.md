@@ -7,23 +7,23 @@ This project.......
 <h2>Utilities Used</h2>
 <table>
  <tr>
-  <td>Microsoft Azure</td>
-  <td>Sentinel</td>
-  <td>Defender for Cloud</td>
+  <td>Window Server 2019</td>
+  <td>Windows 10 Pro</td>
+  <td>Active Directory Domain Services</td>
  </tr>
  <tr>
-  <td>Log Analytics Workspace</td>
-  <td>Virtual Machine</td>
-  <td>PowerShell ISO</td>
+  <td>RAS / NAT</td>
+  <td>DHCP</td>
+  <td>PowerShell ISE</td>
  </tr>
 </table>
 <br/>
 
 <h2>Instructions</h2>
-
 <p align="center">
 <strong><mark>Project Diagram</mark></strong> <br/>
-<img src="https://imgur.com/3iB06uP" height="80%" width="80%" alt="Active Directory"/>
+ <br/>
+<img src="https://i.imgur.com/3iB06uP.png" height="80%" width="80%" alt="Active Directory Home Lab"/>
 <br />
 
 
